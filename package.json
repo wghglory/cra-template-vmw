@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-vmware",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "cra-template-vmware"
+  ],
+  "scripts": {
+    "test": "npx create-react-app my-app --template file:../cra-template-vmware"
+  },
+  "description": "The base template for VMWare Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wghglory/cra-template-vmware.git",
+    "directory": "packages/cra-template-vmware"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
